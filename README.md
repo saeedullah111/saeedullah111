@@ -1,13 +1,11 @@
 ![head](https://github.com/saeedullah111/saeedullah111/blob/main/Saeed.png)
 
-
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Laravel+Developer;Building+Scalable+Web+Solutions;Coffee+%2B+Code+%3D+Magic+%E2%98%95;Welcome+to+my+Digital+Space!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Enterprise+Web+Solutions;Coffee+%2B+C%23+%3D+Innovation+%E2%98%95;Welcome+to+my+Digital+Space!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:saeed1199553@gmail.com">
     <img src="https://img.shields.io/badge/📫_Let's_Connect-FF6B6B?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -24,12 +22,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔥 **Full-Stack Laravel Enthusiast** crafting enterprise-grade solutions
-- 🚀 Currently mastering **microservices** and **cloud-native** architectures  
-- 🌱 Building **SaaS platforms** that scale and perform
-- 🤝 Open to collaborating on **innovative Laravel projects**
-- 💬 Let's talk about **Laravel**, **APIs**, **system design**, or **DevOps**
-- ⚡ Fun fact: **Coffee** is my debugging superpower ☕ and **code** is my canvas! 🎨
+- 🔥 **Full-Stack .NET Enthusiast** crafting enterprise-grade solutions
+- 🚀 Currently mastering **ASP.NET Core MVC** and **cloud-native** architectures  
+- 🌱 Building **scalable web applications** with modern C# patterns
+- 🤝 Open to collaborating on **innovative .NET projects**
+- 💬 Let's talk about **ASP.NET Core**, **Web APIs**, **system design**, or **Azure DevOps**
+- ⚡ Fun fact: **Coffee** is my debugging superpower ☕ and **C#** is my canvas! 🎨
 
 <br clear="both"/>
 
@@ -52,7 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -62,11 +60,11 @@
 <summary><b>⚡ Backend Powerhouse</b></summary>
 <br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </details>
 
@@ -74,10 +72,11 @@
 <summary><b>🗄️ Database Expertise</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -85,11 +84,11 @@
 <summary><b>☁️ DevOps & Cloud</b></summary>
 <br>
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 </details>
 
@@ -97,10 +96,11 @@
 <summary><b>🔧 Development Tools</b></summary>
 <br>
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
@@ -119,30 +119,30 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ **Laravel Mastery**
-```php
-<?php
+### 🏗️ **ASP.NET Core Mastery**
+```csharp
 // My daily superpowers ✨
-$skills = [
-    '🔥 RESTful APIs' => 'Sanctum/Passport Auth',
-    '🗄️ Database Design' => 'Eloquent ORM Magic',
-    '🔄 Queue Systems' => 'Redis/Database Jobs',
-    '🧪 Testing' => 'PHPUnit/Pest Framework',
-    '🛡️ Security' => 'OWASP Best Practices'
-];
+var skills = new Dictionary<string, string>
+{
+    ["🔥 Web APIs"] = "JWT Authentication & Authorization",
+    ["🗄️ Database Design"] = "Entity Framework Core Magic",
+    ["🔄 Background Services"] = "Hosted Services & Hangfire",
+    ["🧪 Testing"] = "xUnit/NUnit/MSTest Framework",
+    ["🛡️ Security"] = "OWASP & Microsoft Security"
+};
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ **DevOps & Architecture**
+### ⚙️ **Architecture & Patterns**
 ```yaml
 # My development philosophy 🚀
 architecture:
-  patterns: [MVC, Repository, SOLID]
-  deployment: [Docker, CI/CD, AWS]
-  monitoring: [Telescope, Sentry, New Relic]
-  performance: [Caching, Optimization]
+  patterns: [MVC, Clean Architecture, CQRS, DDD]
+  deployment: [Docker, Azure, CI/CD]
+  monitoring: [Application Insights, Serilog]
+  performance: [Caching, Memory Management]
   collaboration: [Git Workflows, Code Reviews]
 ```
 
@@ -207,11 +207,6 @@ architecture:
 
 <div align="center">
 
-
----
-
-<div align="center">
-
 ## 💡 Philosophy & Interests
 
 *Beyond the code*
@@ -230,7 +225,7 @@ architecture:
 
 ### 🏏 **Life Beyond Code**
 - **Cricket Enthusiast** 🏏 - Strategic thinking on & off the field
-- **Tech Explorer** 🔍 - Always learning new technologies
+- **Tech Explorer** 🔍 - Always learning new .NET technologies
 - **Problem Solver** 🧩 - Love tackling complex challenges
 
 </td>
@@ -238,12 +233,28 @@ architecture:
 
 ### ☕ **Daily Fuel**
 - **Coffee Connoisseur** - Premium beans for premium code
-- **Continuous Learner** - Tech blogs, docs, and courses
-- **Community Builder** - Sharing knowledge and helping others
+- **Continuous Learner** - Microsoft Learn, docs, and courses
+- **Community Builder** - Sharing .NET knowledge and helping others
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🎓 Microsoft Certifications & Learning Path
+
+*Continuous growth in the Microsoft ecosystem*
+
+<br>
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/)
+[![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+[![.NET Documentation](https://img.shields.io/badge/.NET_Docs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/)
+
+</div>
 
 ---
 
@@ -279,7 +290,7 @@ architecture:
 
 <br><br>
 
-### *"Code is poetry written in logic, and every bug is just a plot twist!"* ✨
+### *"Code is poetry written in C#, and every exception is just a learning opportunity!"* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
