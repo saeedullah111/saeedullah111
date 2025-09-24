@@ -41,6 +41,8 @@
 
 </div>
 
+<div align="center">
+
 <details open>
 <summary><b>🎨 Frontend Skills</b></summary>
 <br>
@@ -87,6 +89,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
+
+</div>
 
 ---
 
