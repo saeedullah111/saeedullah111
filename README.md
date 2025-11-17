@@ -1,4 +1,4 @@
-![head](https://github.com/saeedullah111/saeedullah111/blob/main/Saeed1.png)
+![head](https://github.com/saeedullah111/saeedullah111/blob/main/SAEED.png)
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Transforming+Data+into+Insights;SQL+%2B+Python+%2B+Power+BI;Welcome+to+my+Analytics+Journey!)](https://git.io/typing-svg)
